@@ -10,7 +10,7 @@ Previously, I earned my B.Sc. in Computer Science and Engineering from CUET unde
 
 Contact: 📧 jhossain2@albany.edu
 
-My latest CV: [Resume] (/files/Jawad_CV_Git.pdf)
+My latest CV: [Resume](/files/Jawad_CV_Git.pdf)
 
 A data-driven personal website
 ======
