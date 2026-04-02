@@ -1,15 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, this is Jawad,"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am **Jawad Hossain**, a Phd student at University at Albany- SUNY, working on **natural language processing, large language models, Aand mathematical reasoning**. My recent work focuses on **mathematical reasoning for large language models**, **compute-efficient preference learning**, and **reliable evaluation of reasoning systems**. My broader interests include multilingual NLP, reasoning, efficient alignment, and robust evaluation of AI systems.
+
+Previously, I earned my B.Sc. in Computer Science and Engineering from CUET under the supervision of Dr. Moshiul Hoque as a member of the CUET NLP Lab. During my undergrad, I became particularly interested in real-world applications of AI, especially in low-resource language settings, which later motivated my research in NLP and reasoning systems.
+
+Contact: 📧 jhossain2@albany.edu
+
+My latest CV: [Resume] (/files/Jawad_CV_Git.pdf)
 
 A data-driven personal website
 ======
