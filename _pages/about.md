@@ -2,9 +2,6 @@
 permalink: /
 title: "Hello, this is Jawad,"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am **Jawad Hossain**, a Phd student at University at Albany- SUNY, working on **natural language processing, large language models, Aand mathematical reasoning**. My recent work focuses on **mathematical reasoning for large language models**, **compute-efficient preference learning**, and **reliable evaluation of reasoning systems**. My broader interests include multilingual NLP, reasoning, efficient alignment, and robust evaluation of AI systems.
