@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "About"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I am **Jawad Hossain**, a Phd student at University at Albany- SUNY, working on **natural language processing, large language models, Aand mathematical reasoning**. My recent work focuses on **mathematical reasoning for large language models**, **compute-efficient preference learning**, and **reliable evaluation of reasoning systems**. My broader interests include multilingual NLP, reasoning, efficient alignment, and robust evaluation of AI systems.
 
 Previously, I earned my B.Sc. in Computer Science and Engineering from CUET under the supervision of Dr. Moshiul Hoque as a member of the CUET NLP Lab. During my undergrad, I became particularly interested in real-world applications of AI, especially in low-resource language settings, which later motivated my research in NLP and reasoning systems.
