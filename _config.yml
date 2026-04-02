@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Jawad"
+  avatar           : "Jawad_US.JPG"
+  name             : "Jawad Hossain"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at UAlbany, advised by Prof. Chong Liu. Interested to apply LLMs to understand mathematical reasoning."
   location         : "Albany, NY, US"
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-6051-8989"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
