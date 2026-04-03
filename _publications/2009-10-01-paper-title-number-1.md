@@ -2,7 +2,6 @@
 title: "Fine-Tuning Deep Learning and Transformer-based Models for Emotion Detection in Multi-label Classification, Intensity Estimation, and Cross-lingual Adaptation"
 collection: publications
 category: manuscripts
-date: 2009-10-01
 venue: 'ACL'
 slidesurl: 'https://aclanthology.org/volumes/2025.semeval-1/'
 paperurl: 'https://aclanthology.org/2025.semeval-1.247/'
