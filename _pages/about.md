@@ -12,7 +12,7 @@ Contact: 📧 jhossain2@albany.edu
 
 ## <span style="color:#43c463;">Updates</span>
 
-<div style="height: 230px; overflow-y: auto; border-top: 1.5px solid #43c463; padding-top: 10px;">
+<div style="height: 530px; overflow-y: auto; border-top: 1.5px solid #43c463; padding-top: 10px;">
 
 <table style="border-collapse: collapse; font-size: 15px; line-height: 1.6;">
 
