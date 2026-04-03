@@ -12,41 +12,76 @@ Contact: 📧 jhossain2@albany.edu
 
 ## Updates
 
-<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 6px;">
+<div style="margin-top: 10px;">
 
-<table>
-  <tr>
-    <td style="width: 120px;"><b>Apr 2026</b></td>
-    <td>Started my PhD at University at Albany, SUNY.</td>
-  </tr>
-  <tr>
-    <td><b>Mar 2026</b></td>
-    <td>Launched my academic website.</td>
-  </tr>
-  <tr>
-    <td><b>2025</b></td>
-    <td>Worked on HintMR for mathematical reasoning in LLMs.</td>
-  </tr>
-  <tr>
-    <td><b>2025</b></td>
-    <td>Developed Localized DPO for compute-efficient preference learning.</td>
-  </tr>
-  <tr>
-    <td><b>2023</b></td>
-    <td>Presented paper at BLP-2023.</td>
-  </tr>
-  <tr>
-    <td><b>2022</b></td>
-    <td>Worked on multilingual NLP and low-resource language tasks.</td>
-  </tr>
-  <tr>
-    <td><b>2021</b></td>
-    <td>Started research in NLP and AI systems.</td>
-  </tr>
+<div style="height: 230px; overflow-y: auto; border-top: 2px solid #2ca25f; padding-top: 10px;">
+
+<table style="border-collapse: collapse; font-size: 15px; line-height: 1.6;">
+
+<tr>
+<td style="color:#d7301f; width:140px; vertical-align: top;">20–23 Nov, 2022</td>
+<td>Presented our <a href="#">paper</a> virtually at <a href="#">AACL-SRW 2022</a>.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">12 Sep, 2022</td>
+<td>Awarded Presidential Graduate Fellowship.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">27 Jun, 2022</td>
+<td>Promoted to Assistant Professor in Dept. of CSE, CUET.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">20–25 Jun, 2022</td>
+<td>Virtually attended LREC-2022 and presented our paper.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">17 Jun, 2022</td>
+<td>Journal paper accepted.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">22–27 May, 2022</td>
+<td>Received award and attended conference.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">6 Apr, 2022</td>
+<td>Paper accepted at ACL workshop.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">4 Apr, 2022</td>
+<td>Paper accepted at LREC main conference.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">26 Mar, 2022</td>
+<td>Multiple shared task papers accepted at ACL workshops.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">02 Jan, 2022</td>
+<td>Successfully defended my Master's thesis.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">20 Dec, 2021</td>
+<td>Bengali Aggressive Text Dataset released.</td>
+</tr>
+
+<tr>
+<td style="color:#d7301f; vertical-align: top;">5 Dec, 2021</td>
+<td>Paper accepted.</td>
+</tr>
+
 </table>
 
 </div>
-
+</div>
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
