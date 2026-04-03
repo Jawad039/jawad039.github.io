@@ -10,6 +10,43 @@ Previously, I earned my B.Sc. in Computer Science and Engineering from CUET unde
 
 Contact: 📧 jhossain2@albany.edu
 
+## Updates
+
+<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 6px;">
+
+<table>
+  <tr>
+    <td style="width: 120px;"><b>Apr 2026</b></td>
+    <td>Started my PhD at University at Albany, SUNY.</td>
+  </tr>
+  <tr>
+    <td><b>Mar 2026</b></td>
+    <td>Launched my academic website.</td>
+  </tr>
+  <tr>
+    <td><b>2025</b></td>
+    <td>Worked on HintMR for mathematical reasoning in LLMs.</td>
+  </tr>
+  <tr>
+    <td><b>2025</b></td>
+    <td>Developed Localized DPO for compute-efficient preference learning.</td>
+  </tr>
+  <tr>
+    <td><b>2023</b></td>
+    <td>Presented paper at BLP-2023.</td>
+  </tr>
+  <tr>
+    <td><b>2022</b></td>
+    <td>Worked on multilingual NLP and low-resource language tasks.</td>
+  </tr>
+  <tr>
+    <td><b>2021</b></td>
+    <td>Started research in NLP and AI systems.</td>
+  </tr>
+</table>
+
+</div>
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
