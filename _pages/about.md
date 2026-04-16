@@ -18,9 +18,7 @@ Contact: 📧 jhossain2@albany.edu
 
 <tr>
 <td style="color:#1f4e79; width:140px; vertical-align: top;">April 2026</td>
-<td>Our paper <a href="https://arxiv.org/abs/2604.12229" target="_blank">
-“HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models”
-</a> is now available on arXiv.</td>
+<td>Our paper <a href="https://arxiv.org/abs/2604.12229"> “HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models” </a> is now available on arXiv.</td>
 </tr>
 
 <tr>
