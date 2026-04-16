@@ -17,6 +17,13 @@ Contact: 📧 jhossain2@albany.edu
 <table style="border-collapse: collapse; font-size: 15px; line-height: 1.6;">
 
 <tr>
+<td style="color:#1f4e79; width:140px; vertical-align: top;">April 2026</td>
+<td>Our paper <a href="https://arxiv.org/abs/2604.12229" target="_blank">
+“HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models”
+</a> is now available on arXiv.</td>
+</tr>
+
+<tr>
 <td style="color:#1f4e79; width:140px; vertical-align: top;">Aug 2025 – Present</td>
 <td>Started my Ph.D. in Computer Science at the University at Albany, SUNY, and joined the Department of CS as a Graduate Research Assistant.</td>
 </tr>
