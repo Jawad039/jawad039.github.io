@@ -17,6 +17,11 @@ Contact: 📧 jhossain2@albany.edu
 
 <tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
 <td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">May 2026</td>
+<td>Invited to serve as a <b>Student Organizer</b> for the <b>2026 Northeast AI for Drug Discovery and Development Workshop (AI4D3-Northeast 2026)</b> at <b>New York University</b>. I sincerely thank <b>Prof. Chong Liu</b> for this opportunity.</td>
+</tr>
+
+<tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
+<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">May 2026</td>
 <td>Our paper, <a href="https://link.springer.com/chapter/10.1007/978-3-032-18319-4_6">“PoliticaNet: A Transformer-Driven Framework for Fine-Grained Classification of Bangla Political Hate Speech in Social Media”</a> is now online in the <b>Springer Nature APANConf 2025 proceedings</b>. The work focuses on transformer-based fine-grained classification of Bangla political hate speech on social media.</td>
 </tr>
 
