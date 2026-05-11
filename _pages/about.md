@@ -27,6 +27,11 @@ Contact: 📧 jhossain2@albany.edu
 
 <tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
 <td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">April 2026</td>
+<td>Our paper, <b>“Behind the Laughter: Uncovering Gender Bias in Code-Mixed Bangla Memes,”</b> has been accepted at the <b>ACL 2026 Workshop on LT-EDI</b>. The work introduces a multimodal dataset of 6,846 Bangla and Banglish code-mixed memes for detecting gender bias using both textual and visual features.</td>
+</tr>
+
+<tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
+<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">April 2026</td>
 <td>Our paper <a href="https://arxiv.org/abs/2604.12229">“HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models”</a> is now available on arXiv.</td>
 </tr>
 
