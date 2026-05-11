@@ -16,8 +16,8 @@ Contact: 📧 jhossain2@albany.edu
 <table style="border-collapse: collapse; font-size: 15px; line-height: 1.7; width:100%;">
 
 <tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
-<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">April 2026</td>
-<td>**May 2026:** Our paper, <a href="https://link.springer.com/chapter/10.1007/978-3-032-18319-4_6">“PoliticaNet: A Transformer-Driven Framework for Fine-Grained Classification of Bangla Political Hate Speech in Social Media”</a> is now online in the **Springer Nature APANConf 2025 proceedings**. The work focuses on transformer-based fine-grained classification of Bangla political hate speech on social media.</td>
+<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">May 2026</td>
+<td>Our paper, <a href="https://link.springer.com/chapter/10.1007/978-3-032-18319-4_6">“PoliticaNet: A Transformer-Driven Framework for Fine-Grained Classification of Bangla Political Hate Speech in Social Media”</a> is now online in the **Springer Nature APANConf 2025 proceedings**. The work focuses on transformer-based fine-grained classification of Bangla political hate speech on social media.</td>
 </tr>
 
 <tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
