@@ -18,6 +18,11 @@ Contact: 📧 jhossain2@albany.edu
 
 <tr>
 <td style="color:#1f4e79; width:140px; vertical-align: top;">April 2026</td>
+<td>Presented our latest work, **“HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models,”** at the **UAlbany Showcase 2026**. The project investigates how structured hint assistance can improve mathematical reasoning in small language models, making reasoning more efficient and accessible for education and resource-constrained settings.</td>
+</tr>
+
+<tr>
+<td style="color:#1f4e79; width:140px; vertical-align: top;">April 2026</td>
 <td>Our paper <a href="https://arxiv.org/abs/2604.12229"> “HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models” </a> is now available on arXiv.</td>
 </tr>
 
