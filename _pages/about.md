@@ -9,7 +9,7 @@ Previously, I earned my B.Sc. in Computer Science and Engineering from CUET unde
 
 Contact: 📧 jhossain2@albany.edu
 
-## <span style="color:#000000;">Updates</span>
+## <span style="color:var(--global-text-color);">Updates</span>
 
 <div style="height: 330px; overflow-y: auto; border-top: 1.5px solid #43c463; padding-top: 10px;">
 
@@ -114,7 +114,7 @@ Contact: 📧 jhossain2@albany.edu
 </div>
 
 
-## <span style="color:#000000;">Academic Service</span>
+## <span style="color:var(--global-text-color);">Academic Service</span>
 
 Program Committee Member / Reviewer for:
 
