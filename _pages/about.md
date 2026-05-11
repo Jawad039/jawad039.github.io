@@ -99,7 +99,7 @@ Contact: 📧 jhossain2@albany.edu
 <tr>
 <td style="color:#1f4e79; vertical-align: top;">2017</td>
 <td>Received the HSC General Scholarship Award from the Bangladesh Education Board.</td>
-</tr>
+</tr> 
 
 <tr>
 <td style="color:#1f4e79; vertical-align: top;">2012</td>
