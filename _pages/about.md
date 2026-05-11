@@ -36,7 +36,7 @@ Contact: 📧 jhossain2@albany.edu
 </tr>
 
 <tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
-<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">Aug 2025</td>
+<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">August 2025</td>
 <td>Started my Ph.D. in Computer Science at the University at Albany, SUNY, and joined the Department of CS as a Graduate Research Assistant.</td>
 </tr>
 
