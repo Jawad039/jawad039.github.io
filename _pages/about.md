@@ -17,6 +17,11 @@ Contact: 📧 jhossain2@albany.edu
 
 <tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
 <td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">May 2026</td>
+Our paper, <b>“Hint-Assisted Reasoning: Improving Mathematical Problem Solving in Small Language Models,”</b> has been accepted at the <b>ACL 2026 Workshop on Customizable NLP (CustomNLP)</b>.
+</tr>
+
+<tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
+<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">May 2026</td>
 <td>Invited to serve as a <b>Student Organizer</b> for the <b>2026 Northeast AI for Drug Discovery and Development Workshop (AI4D3-Northeast 2026)</b> at <b>New York University</b>. I sincerely thank <b>Prof. Chong Liu</b> for this opportunity.</td>
 </tr>
 
