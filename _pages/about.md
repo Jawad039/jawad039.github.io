@@ -16,6 +16,18 @@ Contact: 📧 jhossain2@albany.edu
 <table style="border-collapse: collapse; font-size: 15px; line-height: 1.7; width:100%;">
 
 <tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
+<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">June 2026</td>
+<td>Visited the IBM Thomas J. Watson Research Center with my PhD supervisor, Professor Chong Liu, as part of the IBM–UAlbany collaboration. We presented our research, discussed future directions with IBM researchers, and learned about IBM’s quantum computing infrastructure.</b>.
+</td>
+</tr>
+
+<tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
+<td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">May 2026</td>
+<td>I am grateful to receive a travel grant award to attend ACL 2026 in San Diego. I am excited to participate in the conference and connect with brilliant researchers from the natural language processing community.</b>.
+</td>
+</tr>
+
+<tr style="border-bottom:1px solid rgba(150,150,150,0.15);">
 <td style="color:var(--global-text-color); font-weight:600; width:140px; vertical-align: top;">May 2026</td>
 <td>Our paper, <b>“Hint-Assisted Reasoning: Improving Mathematical Problem Solving in Small Language Models,”</b> has been accepted at the <b>ACL 2026 Workshop on Customizable NLP (CustomNLP)</b>.
 </td>
